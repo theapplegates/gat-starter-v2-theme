@@ -16,6 +16,7 @@
     "gatsby-plugin-image": "^0.4.0-next.1",
     "gatsby-plugin-sharp": "^2.11.0-next.1",
     "gatsby-plugin-styled-components": "^3.3.10",
+    "gatsby-remark-images",
     "gatsby-theme-blog": "^2.0.2",
     "gatsby-theme-blog-darkmode": "^2.0.2",
     "gatsby-transformer-sharp": "^2.9.0-next.0",
