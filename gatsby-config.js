@@ -1,3 +1,7 @@
+flags: { QUERY_ON_DEMAND: true }
+flags: {
+  PRESERVE_WEBPACK_CACHE: true
+}
 module.exports = {
   plugins: [`gatsby-theme-blog`, `gatsby-theme-blog-darkmode`, `gatsby-plugin-image`, `gatsby-plugin-sharp`, `gatsby-transformer-sharp`,
     {
